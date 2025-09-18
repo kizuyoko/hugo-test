@@ -1,4 +1,8 @@
 baseURL = 'https://hugo-test-gamma-eight.vercel.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Yoko Hugo Test Site'
 theme = 'ananke' 
+
+[params]
+  custom_css = ['css/custom.css']
+  background = "/images/hero.jpg"
