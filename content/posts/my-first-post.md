@@ -5,4 +5,4 @@ draft = true
 +++
 ## Introduction
 
-This is **bold** text, and this is *emphasized* text.
+You can see my code in [GitHub](https://github.com/kizuyoko/hugo-test).
